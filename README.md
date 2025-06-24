@@ -47,7 +47,7 @@ cd portfolio-project
 ## 🙋‍♂️ Author
 
 **Your Name**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: https://github.com/01amandeep
 
 ## 📄 License
 
